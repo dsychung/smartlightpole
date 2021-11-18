@@ -21,7 +21,7 @@
 			"message": "正確訊息"
 		}],
 		"info_boxes": [{
-			"title1": "燈柱數量",
+			"title1": "燈柱數量ajax",
 			"content1": "10",
 			"icon1": "fa-lightbulb",
 			"title2": "連線數",
@@ -37,7 +37,7 @@
 		"logs": [{
 			"id": "193",
 			"date": "11/11/2014",
-			"status": "一般",
+			"status": "一般ajax",
 			"desc": "事件內容 Bacon ipsum dolor sit amet salami venison chicken flank fatback doner."
 		}, {
 			"id": "194",
@@ -78,7 +78,7 @@
 		"poles": [{
 			"id": 0,
 			"no": "1",
-			"name": "燈柱A",
+			"name": "燈柱Aajax",
 			"alias": "pole1",
 			"signal": 78,
 			"status": "正常",
