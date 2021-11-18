@@ -1,8 +1,7 @@
 {
         time: '',
         date: '',
-        //ALERTS
-        alerts: [/*{ 
+        alerts: [{ 
           type: 'callout-info',
           icon: 'fa-info',
           title: '資訊',
@@ -22,8 +21,7 @@
           icon: 'fa-check',
           title: '正確',
           message: '正確訊息' 
-        }*/],
-        //INFO BOXES
+        }],
         info_boxes: [{
           title1: '燈柱數量',
           content1: '10',
@@ -38,7 +36,6 @@
           content4: '良好',
           icon4: 'fa-wind'
         }],   
-        //LOGS     
         logs: [{
           id: '193',
           date: '11/11/2014',
@@ -80,7 +77,6 @@
           status: '一般',
           desc: '事件內容 Bacon ipsum dolor sit amet salami venison chicken flank fatback doner.',
         }],
-        //智慧燈柱
         poles: [{
           id: 0,
           no: '1',
@@ -246,7 +242,6 @@
           operation_day_sun_start: '07:45 AM',
           operation_day_sun_end: '10:45 PM'
         }],
-        //GOOGLE MAP CENTER
         lat: 22.9982325,
         lng: 120.2158753
       }
