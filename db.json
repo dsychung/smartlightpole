@@ -4,7 +4,7 @@
         time: '',
         date: '',
         //ALERTS
-        alerts: [/*{ 
+        alerts: [{ 
           type: 'callout-info',
           icon: 'fa-info',
           title: '資訊',
@@ -24,7 +24,7 @@
           icon: 'fa-check',
           title: '正確',
           message: '正確訊息' 
-        }*/],
+        }],
         //INFO BOXES
         info_boxes: [{
           title1: '燈柱數量',
