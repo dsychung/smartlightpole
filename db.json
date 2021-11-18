@@ -2,7 +2,7 @@
 		"alerts": [{
 			"type": "callout-info",
 			"icon": "fa-info",
-			"title": "資訊ajax",
+			"title": "資訊server data",
 			"message": "資訊訊息 from ajax"
 		}, {
 			"type": "callout-warning",
