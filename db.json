@@ -3,7 +3,7 @@
 			"type": "callout-info",
 			"icon": "fa-info",
 			"title": "資訊",
-			"message": "資訊訊息 "
+			"message": "資訊訊息 from ajax"
 		}, {
 			"type": "callout-warning",
 			"icon": "fa-exclamation-triangle",
